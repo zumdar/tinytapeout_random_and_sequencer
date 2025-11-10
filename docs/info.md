@@ -33,7 +33,7 @@ There are 8 cascading D-type flip flops that create a ring counter OR a LFSR (Li
 
 - There are 8 outputs, each one corresponding to an output of a flip flop on the ring counter
 
-![wokwi screen shot](<wokwi screen shot.png>)
+![wokwi screen shot](https://github.com/zumdar/tinytapeout_random_and_sequencer/blob/main/docs/wokwi.png)
 
 ## How to test
 
